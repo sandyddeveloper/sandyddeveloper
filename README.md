@@ -10,7 +10,7 @@
 
 📚 Exploring the intersections of design and code to create intuitive and engaging digital solutions.
 
-📫 How to reach me: sandyddeveloper@gmail.com | LinkedIn https://www.linkedin.com/in/santhosh-raj-361792281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+📫 How to reach me: sandyddeveloper@gmail.com | LinkedIn 
 
 😄 Pronouns: He/Him
 
