@@ -1,6 +1,6 @@
 {! MasterHead](https://ecommerce-platforms.com/wp-content/uploads/2018/08/devstory_dribbble_01-1549919968.gif)
 <h1 align="center">Hi 👋, I'm SANDY</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer </h3>
 <img align="right" widht="400" scr="(https://github.com/sandyddeveloper/sandyddeveloper/blob/main/1_yw0TnheAGN-LPneDaTlaxw.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandyddeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="sandyddeveloper" /> </p>
