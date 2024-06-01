@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandyddeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="sandyddeveloper" /> </p>
 
-- 🔭 I’m currently working on **angular and python**
+- 🔭 I’m currently working on **REACT and PYTHON**
 
-- 🌱 I’m currently learning **Angularjs and Python**
+- 🌱 I’m currently learning **REACT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sandyddeveloper/sandyddeveloper](https://github.com/sandyddeveloper/sandyddeveloper)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT AND REACT**
 
 - 📫 How to reach me **sandyddeveloper@gmail.com**
 
