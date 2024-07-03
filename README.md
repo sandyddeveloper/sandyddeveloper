@@ -16,7 +16,7 @@
 
  🔭 Next I’m going to working on **PORTFOLIO WITH NEXTJS**
 
-💬 Ask me about ** React, Firebase... or anything [here](https://github.com/sandyddeveloper/sandyddeveloper/issues)**
+💬 Ask me about **React, Firebase... or anything [here](https://github.com/sandyddeveloper/sandyddeveloper/issues)**
 
 
  </div>
