@@ -10,11 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **CLONE APPS**
+ 🔭 I’m currently working on **CHAT APPS**
  
  🌱 I’m currently learning **EXPRESSJS, NODEJS, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/sandyddeveloper/sandyddeveloper/issues)**
+ 🔭 Next I’m going to working on **PORTFOLIO WITH NEXTJS**
+
+💬 Ask me about ** React, Firebase... or anything [here](https://github.com/sandyddeveloper/sandyddeveloper/issues)**
 
 
  </div>
