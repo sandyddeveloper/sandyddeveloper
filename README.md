@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Travel APPS**
+ 🔭 I’m currently working on **iSNIPPETS CRAFTER**
  
  🌱 I’m currently learning **EXPRESSJS, NODEJS, AWS**
 
  🔭 Next I’m going to working on **PORTFOLIO WITH NEXTJS**
 
-💬 Ask me about **React, Firebase... or anything [here](https://github.com/sandyddeveloper/sandyddeveloper/issues)**
+💬 Ask me about **Next js, Python... or anything [here](https://github.com/sandyddeveloper/sandyddeveloper/issues)**
 
 
  </div>
@@ -38,6 +38,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,nextjs,mysql" /><br>
 </div>
