@@ -1,4 +1,4 @@
-<img align="right" src="[https://komarev.com/ghpvc/?username=sandyddeveloper](https://camo.githubusercontent.com/43addce62bb57810cfdbd08663bdb86ce411dba2dff6a45c5c1d1c8a31f6214d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73616e647964646576656c6f706572)" />
+<img align="right" src="https://komarev.com/ghpvc/?username=sandyddeveloper" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Santhosh+Raj!;" />
