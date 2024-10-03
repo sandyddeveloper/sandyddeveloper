@@ -4,20 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Santhosh+Raj!;" />
 </h1>
 
-<h3 align="center">A passionate full stack developer from india</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **iSNIPPETS CRAFTER**
+ 🔭 I’m currently working on **NextSeek**, a full-stack property search web application using **Next.js**, **Django**, and **MySQL**.
  
- 🌱 I’m currently learning **DJANGO, DOCKER**
+ 🌱 I’m currently learning **Django** and **Docker**
 
- 🔭 Next I’m going to working on **ECOMMERCE KINDOF FULL STACK APPLICATION**
+ 🔭 Next, I’m going to work on an **Ecommerce full-stack application**
 
-💬 Ask me about **Next js, Python... or anything [here](https://github.com/sandyddeveloper/sandyddeveloper/issues)**
-
+💬 Ask me about **Next.js, Python... or anything [here](https://github.com/sandyddeveloper/sandyddeveloper/issues)**
 
  </div>
  
@@ -25,7 +24,7 @@
   <a href="mailto:sandyddeveloper@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-santhoshraj" target="_blank">
+  <a href="https://www.linkedin.com/in/santhosh-raj-k-622179316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://santhoshdev-seven.vercel.app/" target="_blank">
