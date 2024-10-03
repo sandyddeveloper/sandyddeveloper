@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **iSNIPPETS CRAFTER**
  
- 🌱 I’m currently learning **EXPRESSJS, NODEJS, AWS**
+ 🌱 I’m currently learning **DJANGO, DOCKER**
 
- 🔭 Next I’m going to working on **PORTFOLIO WITH NEXTJS**
+ 🔭 Next I’m going to working on **ECOMMERCE KINDOF FULL STACK APPLICATION**
 
 💬 Ask me about **Next js, Python... or anything [here](https://github.com/sandyddeveloper/sandyddeveloper/issues)**
 
@@ -39,5 +39,5 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,nextjs,mysql,django" /><br>
 </div>
