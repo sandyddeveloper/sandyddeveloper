@@ -2,7 +2,7 @@
 
 <!-- Centered GitHub GIF and Current Projects -->
 <div align="center" style="margin-top: 40px;">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250" alt="GitHub GIF" style="border-radius: 10px; margin-bottom: 30px;"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" alt="GitHub GIF" style="border-radius: 10px; margin-bottom: 30px;"/>
 
   <h4 style="font-size: 1.8rem; margin-bottom: 25px;">🚀 Current Projects:</h4>
   <p style="font-size: 1.4rem; line-height: 1.7; margin-bottom: 20px;">🔭 Working on <strong>NextSeek</strong>: A full-stack property search web application using <strong>Next.js</strong>, <strong>Django</strong>, and <strong>MySQL</strong>.</p>
