@@ -13,8 +13,8 @@
   <!-- Boy version developer GIF -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer Boy GIF" style="border-radius: 10px; margin-bottom: 30px;"/>
 
-  <h4 style="font-size: 2.8rem; margin-bottom: 25px;">🚀 Current Projects:</h4>
-  <p style="font-size: 1.8rem; line-height: 1.7; margin-bottom: 20px;">🔭 Working on <strong>NextSeek</strong>: A full-stack property search web application using <strong>Next.js</strong>, <strong>Django</strong>, and <strong>MySQL</strong>.</p>
+  <h4 style="font-size: 20px; margin-bottom: 25px;">🚀 Current Projects:</h4>
+  <p style="font-size: 16px; line-height: 1.7; margin-bottom: 20px;">🔭 Working on <strong>NextSeek</strong>: A full-stack property search web application using <strong>Next.js</strong>, <strong>Django</strong>, and <strong>MySQL</strong>.</p>
   <p style="font-size: 1.8rem; line-height: 1.7; margin-bottom: 20px;">🌱 Learning <strong>Django</strong> and <strong>Docker</strong>.</p>
   <p style="font-size: 1.8rem; line-height: 1.7; margin-bottom: 40px;">🔮 Next up: Building an <strong>Ecommerce full-stack application</strong>.</p>
 
