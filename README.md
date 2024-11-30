@@ -16,7 +16,7 @@
   <h4 style="font-size: 20px; margin-bottom: 25px;">🚀 Current Projects:</h4>
   <p style="font-size: 16px; line-height: 1.7; margin-bottom: 20px;">🔭 Working on <strong>NextSeek</strong>: A full-stack property search web application using <strong>Next.js</strong>, <strong>Django</strong>, and <strong>MySQL</strong>.</p>
   <p style="font-size: 1.8rem; line-height: 1.7; margin-bottom: 20px;">🌱 Learning <strong>Django</strong> and <strong>Docker</strong>.</p>
-  <p style="font-size: 1.8rem; line-height: 1.7; margin-bottom: 40px;">🔮 Next up: Building an <strong>Ecommerce full-stack application</strong>.</p>
+  <p style="font-size: 1.8rem; line-height: 1.7; margin-bottom: 40px;">🔮 Next up: Building an <strong>Event Management full-stack application</strong>.</p>
 
   <h4 style="font-size: 2.8rem;">💬 Let's Connect!</h4>
   <p style="font-size: 2.3rem;">Ask me about <strong>Next.js</strong>, <strong>Python</strong>, or anything <a href="https://github.com/sandyddeveloper/sandyddeveloper/issues" target="_blank" style="color: #0077B5;">here</a>.</p>
