@@ -51,7 +51,7 @@
 </div>
 
 <hr/>
-<img src="https://raw.githubusercontent.com/sandyddeveloper/sandyddeveloper/output/snake.svg" alt="Snake animation" />
+
 <!-- My Progress Section with Normalized Size -->
 <div align="center" style="margin-top: 40px;">
   <h3 style="font-size: 2rem; margin-bottom: 20px;">🌟 My Progress</h3>
