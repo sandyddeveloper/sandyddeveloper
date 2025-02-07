@@ -78,4 +78,4 @@
   <h4 style="font-size: 1.75rem; margin-bottom: 10px;">Let's connect and build amazing things together! 🌟</h4>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thank+you+for+visiting!;Feel+free+to+reach+out!" alt="Closing SVG" style="margin-top: 20px;"/>
 </div>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhvcjFwOHZ1d2FraDVjcGpiYzVzYms4anB2ZmxtZDEydXN1eWZveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
