@@ -13,14 +13,22 @@
   <!-- Boy version developer GIF -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer Boy GIF" style="border-radius: 10px; margin-bottom: 30px;"/>
 
-  <h4 style="font-size: 20px; margin-bottom: 25px;">🚀 Current Projects:</h4>
-  <p style="font-size: 16px; line-height: 1.7; margin-bottom: 20px;">🔭 Working on <strong>NextSeek</strong>: A full-stack property search web application using <strong>Next.js</strong>, <strong>Django</strong>, and <strong>MySQL</strong>.</p>
-  <p style="font-size: 1.8rem; line-height: 1.7; margin-bottom: 20px;">🌱 Learning <strong>Django</strong> and <strong>Docker</strong>.</p>
-  <p style="font-size: 1.8rem; line-height: 1.7; margin-bottom: 40px;">🔮 Next up: Building an <strong>Event Management full-stack application</strong>.</p>
+<div style="font-family: 'Inter', sans-serif; color: #333; max-width: 700px; margin: auto; padding: 20px;">
+  <h4 style="font-size: 24px; font-weight: 600; margin-bottom: 20px;">🚀 Current Projects</h4>
 
-  <h4 style="font-size: 2.8rem;">💬 Let's Connect!</h4>
-  <p style="font-size: 2.3rem;">Ask me about <strong>Next.js</strong>, <strong>Python</strong>, or anything <a href="https://github.com/sandyddeveloper/sandyddeveloper/issues" target="_blank" style="color: #0077B5;">here</a>.</p>
+  <div style="font-size: 18px; line-height: 1.8; margin-bottom: 25px;">
+    <p>🔭 <strong>Building EaserTacker</strong> — A full-stack Error tracker web app powered by <strong>Next.js</strong>, <strong>Django</strong>, and <strong>MySQL</strong>.</p>
+    <p>🌱 <strong>Learning</strong>: Advancing my skills in <strong>Django</strong> & <strong>Docker</strong>.</p>
+    <p>🔮 <strong>Upcoming</strong>: Developing a full-stack <strong>Event Management Application</strong>.</p>
+  </div>
+
+  <h4 style="font-size: 26px; font-weight: 600; margin-bottom: 15px;">💬 Let's Connect</h4>
+  <p style="font-size: 20px; line-height: 1.7;">
+    Have questions about <strong>Next.js</strong>, <strong>Python</strong>, or something else?  
+    Open an issue <a href="https://github.com/sandyddeveloper/sandyddeveloper/issues" target="_blank" style="color: #0077B5; text-decoration: none; font-weight: 600;">here</a>.
+  </p>
 </div>
+
 
 <!-- Social Links Section -->
 <div align="center">
