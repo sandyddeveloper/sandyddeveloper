@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 <hr/>
 
@@ -64,3 +64,4 @@
   <h4 style="font-size: 1.75rem; margin-bottom: 10px;">Let's connect and build amazing things together! 🌟</h4>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thank+you+for+visiting!;Feel+free+to+reach+out!" alt="Closing SVG" style="margin-top: 20px;"/>
 </div>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
