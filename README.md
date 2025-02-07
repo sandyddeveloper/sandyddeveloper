@@ -1,3 +1,4 @@
+<img src="https://discordbanners.vercel.app/static/img/guthub.jpg" >
 <!-- Profile Views Badge -->
 <img align="right" src="https://komarev.com/ghpvc/?username=sandyddeveloper&color=brightgreen" alt="Profile views"/>
 
