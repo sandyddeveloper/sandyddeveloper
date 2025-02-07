@@ -58,7 +58,7 @@
   ![](https://github-readme-stats.vercel.app/api?username=sandyddeveloper&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
   
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sandyddeveloper&show_icons=true&theme=dracula" alt="GitHub Stats" style="width: 60%;"/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandyddeveloper&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 <hr/>
