@@ -11,7 +11,7 @@
 <!-- Centered GitHub GIF and Current Projects -->
 <div align="center" style="margin-top: 40px;">
   <!-- Boy version developer GIF -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg0cG5iZnVvNHg1Z3ptNGJicml2Y3pqNGNobXIyN2R2NmFncDZycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="500" alt="Developer Boy GIF" style="border-radius: 10px; margin-bottom: 30px;"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg0cG5iZnVvNHg1Z3ptNGJicml2Y3pqNGNobXIyN2R2NmFncDZycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="700" alt="Developer Boy GIF" style="border-radius: 10px; margin-bottom: 30px;"/>
 
 <div style="font-family: 'Inter', sans-serif; color: #333; max-width: 700px; margin: auto; padding: 20px;">
   <h4 style="font-size: 24px; font-weight: 600; margin-bottom: 20px;">🚀 Current Projects</h4>
