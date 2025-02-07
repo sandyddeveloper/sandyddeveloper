@@ -54,7 +54,8 @@
 <div align="center" style="margin-top: 40px;">
   <h3 style="font-size: 2rem; margin-bottom: 20px;">🌟 My Progress</h3>
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandyddeveloper&layout=compact&theme=dracula" alt="Top Languages" style="margin-bottom: 20px; width: 60%;"/>
+    
+  ![](https://github-readme-stats.vercel.app/api?username=sandyddeveloper&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
   
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=sandyddeveloper&show_icons=true&theme=dracula" alt="GitHub Stats" style="width: 60%;"/>
