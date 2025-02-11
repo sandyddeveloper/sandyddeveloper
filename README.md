@@ -57,7 +57,7 @@
 
 </div>
  
-![snake svg](https://github.com/sandyddeveloper/sandyddeveloper/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/sandyddeveloper/sandyddeveloper/blob/output/github-snake-dark.svg)
 <hr/>
 
 <!-- My Progress Section with Normalized Size -->
