@@ -14,14 +14,17 @@
   </a>
 </h1>
 
-<h3 align="center">Full-Stack Developer based in India</h3>
+<h3 align="center">Full-Stack Software Engineer based in India</h3>
 
 <p align="center">
   Engineering responsive, high-performance web applications with <strong>Next.js</strong>, <strong>React</strong>, <strong>Django REST Framework</strong>, and <strong>Docker</strong>.
 </p>
 
-<!-- Social Links -->
+<!-- Social & Navigation Links -->
 <p align="center">
+  <a href="https://portfolio-ashen-xi-b6lb6vy01y.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/santhosh-raj-k-622179316/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -35,6 +38,33 @@
     <img src="https://img.shields.io/badge/Get_In_Touch-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Get In Touch" />
   </a>
 </p>
+
+---
+
+<!-- Developer Terminal Spec -->
+<div align="center">
+  <h2><img src="https://api.iconify.design/lucide:terminal.svg?color=%2338bdf8" width="24" height="24" valign="middle" alt="Terminal Icon" /> Developer Specification</h2>
+</div>
+
+```json
+{
+  "engineer": "Santhosh Raj",
+  "title": "Full-Stack Software Engineer",
+  "location": "India",
+  "core_stack": {
+    "backend": ["Python", "Django REST Framework", "Docker"],
+    "frontend": ["Next.js", "React", "TypeScript", "TailwindCSS"],
+    "databases": ["PostgreSQL", "MySQL", "MongoDB"],
+    "cloud_devops": ["AWS", "Docker", "Nginx", "Gunicorn", "Vercel"]
+  },
+  "architecture_focus": [
+    "Scalable RESTful & GraphQL APIs",
+    "High-Throughput Web Applications",
+    "Microservices & Containerization"
+  ],
+  "current_status": "Engineering production web systems"
+}
+```
 
 ---
 
@@ -92,7 +122,7 @@
 
 ---
 
-<!-- Contribution Graph (Adapts to Dark / Light Mode) -->
+<!-- Contribution Activity (Adapts to Dark / Light Mode) -->
 <div align="center">
   <h2><img src="https://api.iconify.design/lucide:git-commit.svg?color=%2338bdf8" width="24" height="24" valign="middle" alt="Commit Icon" /> Contribution Activity</h2>
   <picture>
@@ -104,16 +134,26 @@
 
 ---
 
-<!-- Featured Projects -->
+<!-- Featured & Live Repositories -->
 <div align="center">
-  <h2><img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%2338bdf8" width="24" height="24" valign="middle" alt="Projects Icon" /> Featured Projects</h2>
+  <h2><img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%2338bdf8" width="24" height="24" valign="middle" alt="Projects Icon" /> Featured Repositories & Systems</h2>
+
+  <!-- Live Pinned Repo Cards -->
+  <p align="center">
+    <a href="https://github.com/sandyddeveloper/AGENT-AI">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandyddeveloper&repo=AGENT-AI&theme=tokyonight&hide_border=true" alt="AGENT-AI Repository" />
+    </a>
+    <a href="https://github.com/sandyddeveloper/portfolio">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandyddeveloper&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio Repository" />
+    </a>
+  </p>
 
   <table>
     <thead>
       <tr>
-        <th>Project</th>
+        <th>Flagship Project</th>
         <th>Tech Stack</th>
-        <th>Description</th>
+        <th>Architecture Overview</th>
         <th>Status</th>
       </tr>
     </thead>
@@ -150,16 +190,13 @@
 
 ---
 
-<!-- Automated Activity Feed -->
+<!-- Daily Developer Wisdom -->
 <div align="center">
-  <h2><img src="https://api.iconify.design/lucide:activity.svg?color=%2338bdf8" width="24" height="24" valign="middle" alt="Activity Icon" /> Recent Activity</h2>
+  <h2><img src="https://api.iconify.design/lucide:quote.svg?color=%2338bdf8" width="24" height="24" valign="middle" alt="Quote Icon" /> Tech Philosophy</h2>
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Wisdom" />
+  </p>
 </div>
-
-<!--START_SECTION:activity-->
-1. Pushed to [sandyddeveloper/AGENT-AI](https://github.com/sandyddeveloper/AGENT-AI)
-2. Created branch `main` in [sandyddeveloper/AGENT-AI](https://github.com/sandyddeveloper/AGENT-AI)
-3. Pushed commit to [sandyddeveloper/portfolio](https://github.com/sandyddeveloper/portfolio)
-<!--END_SECTION:activity-->
 
 ---
 
