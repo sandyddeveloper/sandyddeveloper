@@ -1,81 +1,168 @@
-<img src="https://discordbanners.vercel.app/static/img/guthub.jpg" >
-<!-- Profile Views Badge -->
-<img align="right" src="https://komarev.com/ghpvc/?username=sandyddeveloper&color=brightgreen" alt="Profile views"/>
+<!-- Top Banner & Profile Views -->
+<div align="center">
+  <img src="https://discordbanners.vercel.app/static/img/guthub.jpg" alt="Header Banner" width="100%" style="border-radius: 12px; max-height: 280px; object-fit: cover;" />
+</div>
 
-<!-- Introduction with Enhanced Font and Design -->
-<h1 align="center" style="font-size: 3.8rem; font-family: 'Righteous', sans-serif;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Santhosh+Raj!" alt="Typing SVG"/>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sandyddeveloper&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<!-- Typing Header -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=85&lines=Hi+There!+I'm+Santhosh+Raj;Full-Stack+Developer+%7C+Python+%26+Next.js;Building+Scalable+Modern+Web+Applications;Turning+Ideas+Into+Production+Code" alt="Typing SVG" />
+  </a>
 </h1>
 
-<h3 align="center" style="font-size: 2rem; margin-top: 10px; line-height: 1.4;">A passionate full-stack developer from India</h3>
+<h3 align="center">Full-Stack Developer based in India</h3>
 
-<!-- Centered GitHub GIF and Current Projects -->
-<div align="center" style="margin-top: 40px;">
+<p align="center">
+  Engineering responsive, high-performance web applications with <strong>Next.js</strong>, <strong>React</strong>, <strong>Django REST Framework</strong>, and <strong>Docker</strong>.
+</p>
 
-<div style="font-family: 'Inter', sans-serif; color: #333; max-width: 700px; margin: auto; padding: 20px;">
-  <h4 style="font-size: 24px; font-weight: 600; margin-bottom: 20px;">🚀 Current Projects</h4>
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/santhosh-raj-k-622179316/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:santhoshrajk1812@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/channels/1331296410976522391/1331296411471446118" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://github.com/sandyddeveloper/sandyddeveloper/issues" target="_blank">
+    <img src="https://img.shields.io/badge/Get_In_Touch-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Get In Touch" />
+  </a>
+</p>
 
-  <div style="font-size: 18px; line-height: 1.8; margin-bottom: 25px;">
-    <p>🔭 <strong>Building EaserTacker</strong> — A full-stack Error tracker web app powered by <strong>Next.js</strong>, <strong>Django</strong>, and <strong>MySQL</strong>.</p>
-    <p>🌱 <strong>Learning</strong>: Advancing my skills in <strong>Django</strong> & <strong>Docker</strong>.</p>
-    <p>🔮 <strong>Upcoming</strong>: Developing a full-stack <strong>Event Management Application</strong>.</p>
-  </div>
+---
 
-  <h4 style="font-size: 26px; font-weight: 600; margin-bottom: 15px;">💬 Let's Connect</h4>
-  <p style="font-size: 20px; line-height: 1.7;">
-    Have questions about <strong>Next.js</strong>, <strong>Python</strong>, or something else?  
-    Open an issue <a href="https://github.com/sandyddeveloper/sandyddeveloper/issues" target="_blank" style="color: #0077B5; text-decoration: none; font-weight: 600;">here</a>.
+<!-- Current Focus & Status -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="left"><img src="https://api.iconify.design/lucide:code-2.svg?color=%2338bdf8" width="16" height="16" valign="middle" alt="Code Icon" /> <strong>Currently Building</strong></td>
+      <td align="left"><strong>EaserTracker</strong> — An end-to-end error tracking and monitoring platform built with Next.js, Django, and MySQL.</td>
+    </tr>
+    <tr>
+      <td align="left"><img src="https://api.iconify.design/lucide:layers.svg?color=%2338bdf8" width="16" height="16" valign="middle" alt="Layers Icon" /> <strong>Core Focus</strong></td>
+      <td align="left">Advanced <strong>Django Architecture</strong>, <strong>Microservices</strong>, <strong>Docker Containerization</strong>, and <strong>AWS Cloud</strong>.</td>
+    </tr>
+    <tr>
+      <td align="left"><img src="https://api.iconify.design/lucide:target.svg?color=%2338bdf8" width="16" height="16" valign="middle" alt="Target Icon" /> <strong>Upcoming Architecture</strong></td>
+      <td align="left">Full-scale <strong>Event Management & Ticketing Engine</strong> with real-time analytics and authentication.</td>
+    </tr>
+    <tr>
+      <td align="left"><img src="https://api.iconify.design/lucide:message-square.svg?color=%2338bdf8" width="16" height="16" valign="middle" alt="Message Icon" /> <strong>Collaboration</strong></td>
+      <td align="left">Full-stack web architecture, REST APIs, Python/Django optimization, and modern React/Next.js workflows.</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- Skills & Technologies -->
+<div align="center">
+  <h2><img src="https://api.iconify.design/lucide:cpu.svg?color=%2338bdf8" width="24" height="24" valign="middle" alt="Tech Stack Icon" /> Languages, Frameworks & Tech Stack</h2>
+
+  <p><strong><img src="https://api.iconify.design/lucide:layout.svg?color=%2338bdf8" width="16" height="16" valign="middle" alt="Frontend Icon" /> Frontend & UI</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mui,threejs" alt="Frontend Tech" />
+  </a>
+  <br/><br/>
+
+  <p><strong><img src="https://api.iconify.design/lucide:server.svg?color=%2338bdf8" width="16" height="16" valign="middle" alt="Backend Icon" /> Backend & APIs</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,flask,nodejs,nestjs" alt="Backend Tech" />
+  </a>
+  <br/><br/>
+
+  <p><strong><img src="https://api.iconify.design/lucide:database.svg?color=%2338bdf8" width="16" height="16" valign="middle" alt="Database Icon" /> Databases & Cloud DevOps</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws,nginx" alt="Databases and DevOps" />
+  </a>
+  <br/><br/>
+
+  <p><strong><img src="https://api.iconify.design/lucide:wrench.svg?color=%2338bdf8" width="16" height="16" valign="middle" alt="Tools Icon" /> Developer Tools & Workflow</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,figma,canva,vercel,netlify" alt="Tools" />
+  </a>
+</div>
+
+---
+
+<!-- Contribution Graph (Adapts to Dark / Light Mode) -->
+<div align="center">
+  <h2><img src="https://api.iconify.design/lucide:git-commit.svg?color=%2338bdf8" width="24" height="24" valign="middle" alt="Commit Icon" /> Contribution Activity</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandyddeveloper/sandyddeveloper/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandyddeveloper/sandyddeveloper/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/sandyddeveloper/sandyddeveloper/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<!-- Featured Projects -->
+<div align="center">
+  <h2><img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%2338bdf8" width="24" height="24" valign="middle" alt="Projects Icon" /> Featured Projects</h2>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Tech Stack</th>
+        <th>Description</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>EaserTracker</strong></td>
+        <td><code>Next.js</code> <code>Django REST</code> <code>MySQL</code> <code>Docker</code></td>
+        <td>Full-stack error tracker and bug monitoring platform for production web applications.</td>
+        <td><img src="https://img.shields.io/badge/status-active_development-0284c7?style=flat-square" alt="Active Development" /></td>
+      </tr>
+      <tr>
+        <td><strong>Event Management</strong></td>
+        <td><code>React</code> <code>Django</code> <code>PostgreSQL</code> <code>JWT</code></td>
+        <td>Dynamic ticketing, attendee registration, and event scheduling system.</td>
+        <td><img src="https://img.shields.io/badge/status-in_development-f59e0b?style=flat-square" alt="In Development" /></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+<!-- GitHub Analytics & Streaks Section -->
+<div align="center">
+  <h2><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2338bdf8" width="24" height="24" valign="middle" alt="Analytics Icon" /> GitHub Analytics & Streaks</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sandyddeveloper&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com/?user=sandyddeveloper&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandyddeveloper&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
   </p>
 </div>
 
+---
 
-<!-- Social Links Section -->
+<!-- Automated Activity Feed -->
 <div align="center">
-  <a href="https://discord.com/channels/1331296410976522391/1331296411471446118" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:santhoshrajk1812@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/santhosh-raj-k-622179316/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+  <h2><img src="https://api.iconify.design/lucide:activity.svg?color=%2338bdf8" width="24" height="24" valign="middle" alt="Activity Icon" /> Recent Activity</h2>
 </div>
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
+---
 
-<hr/>
-
-<!-- Skills Section -->
-<h2 align="center" style="font-size: 2.5rem; font-family: 'Righteous', sans-serif; margin-top: 40px; margin-bottom: 30px;">⚒️ Languages, Frameworks & Tools ⚒️</h2>
-<div align="center" style="margin-bottom: 30px;">
-    
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+<!-- Closing Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Thank+you+for+visiting+my+profile!;Let's+connect+and+collaborate." alt="Closing SVG" />
+  <br/>
+  <img align="right" height="130" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhvcjFwOHZ1d2FraDVjcGpiYzVzYms4anB2ZmxtZDEydXN1eWZveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding GIF" />
 </div>
- 
-![snake svg](https://github.com/sandyddeveloper/sandyddeveloper/blob/output/github-snake-dark.svg)
-<hr/>
-
-<!-- My Progress Section with Normalized Size -->
-<div align="center" style="margin-top: 40px;">
-  <h3 style="font-size: 2rem; margin-bottom: 20px;">🌟 My Progress</h3>
-  <!-- Top Languages Card -->
-    
-  ![](https://github-readme-stats.vercel.app/api?username=sandyddeveloper&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  
-  <!-- GitHub Stats Card -->
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandyddeveloper&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
-
-<hr/>
-
-<!-- Closing Message with Enhanced Layout -->
-<div align="center" style="margin-top: 40px;">
-  <h4 style="font-size: 1.75rem; margin-bottom: 10px;">Let's connect and build amazing things together! 🌟</h4>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thank+you+for+visiting!;Feel+free+to+reach+out!" alt="Closing SVG" style="margin-top: 20px;"/>
-</div>
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhvcjFwOHZ1d2FraDVjcGpiYzVzYms4anB2ZmxtZDEydXN1eWZveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
