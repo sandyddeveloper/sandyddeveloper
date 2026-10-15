@@ -2,9 +2,14 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    # Run automatically every 6 hours
-    - cron: "0 */6 * * *"
+    # Run automatically every 3 hours
+    - cron: "0 */3 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "README.md"
 
 permissions:
   contents: write
@@ -16,10 +21,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Pull Recent GitHub Activity
+      - name: Update README with Recent Activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          GH_USERNAME: "sandyddeveloper"
           COMMIT_MSG: "chore: update recent GitHub activity [skip ci]"
           MAX_LINES: 5
